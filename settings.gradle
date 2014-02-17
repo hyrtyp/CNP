@@ -1,0 +1,1 @@
+include ':app', 'CNP_Base', 'CNP_Account', ':CNP_Base', ':CNP_School', ':CNP_Classroom', ':CNP_Dynamic'
